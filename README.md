@@ -1,4 +1,4 @@
-# 🎬 Netflix & Movie Dataset Analyzer
+# 🎬 Netflix/Movie Dataset Analyzer
 
 An end-to-end Exploratory Data Analysis (EDA) and visualization pipeline built in Python to uncover content trends, genre distributions, duration patterns, and release metrics across a Netflix movie and TV show dataset.
 
