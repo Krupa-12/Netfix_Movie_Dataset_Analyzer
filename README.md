@@ -10,3 +10,12 @@ This project transforms raw streaming metadata into actionable insights through 
 * **Data Cleaning & Preprocessing:** Handles missing values, standardizes date formats, and parses multi-value fields (genres, cast, and countries).
 * **Exploratory Data Analysis:** Analyzes release year distributions, content durations, and regional production trends.
 * **Data Visualizations:** Generates clear charts and plots to highlight catalog growth and audience rating breakdowns.
+## 🛠️ Tech Stack
+* **Language:** Python
+* **Libraries:** Pandas, Matplotlib
+* **Environment:** Google Colab / Jupyter Notebook
+
+## 💻 How to Run
+1. Open `PDS_implementation.ipynb` in **Google Colab** or **Jupyter Notebook**.
+2. Run the first cell and upload the `netflix_titles.csv` dataset when prompted.
+3. Run all remaining cells to execute the cleaning, analysis, and visualizations.
